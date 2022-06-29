@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kasyap1234.github.io/csb-xkgm7y/static/css/main.fcddaff9.chunk.css",
+    "main.js": "https://kasyap1234.github.io/csb-xkgm7y/static/js/main.134c167a.chunk.js",
+    "main.js.map": "https://kasyap1234.github.io/csb-xkgm7y/static/js/main.134c167a.chunk.js.map",
+    "runtime-main.js": "https://kasyap1234.github.io/csb-xkgm7y/static/js/runtime-main.8e7e0374.js",
+    "runtime-main.js.map": "https://kasyap1234.github.io/csb-xkgm7y/static/js/runtime-main.8e7e0374.js.map",
+    "static/js/2.d3bfa874.chunk.js": "https://kasyap1234.github.io/csb-xkgm7y/static/js/2.d3bfa874.chunk.js",
+    "static/js/2.d3bfa874.chunk.js.map": "https://kasyap1234.github.io/csb-xkgm7y/static/js/2.d3bfa874.chunk.js.map",
+    "index.html": "https://kasyap1234.github.io/csb-xkgm7y/index.html",
+    "static/css/main.fcddaff9.chunk.css.map": "https://kasyap1234.github.io/csb-xkgm7y/static/css/main.fcddaff9.chunk.css.map",
+    "static/js/2.d3bfa874.chunk.js.LICENSE.txt": "https://kasyap1234.github.io/csb-xkgm7y/static/js/2.d3bfa874.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e7e0374.js",
+    "static/js/2.d3bfa874.chunk.js",
+    "static/css/main.fcddaff9.chunk.css",
+    "static/js/main.134c167a.chunk.js"
+  ]
+}
